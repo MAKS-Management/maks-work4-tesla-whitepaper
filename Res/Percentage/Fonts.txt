@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Dosis
+Author: Impallari Type
+Url: http://www.fontsquirrel.com/fonts/dosis
+
+Font: Aileron
+Author: dot colon
+Url: https://www.fontsquirrel.com/fonts/aileron
